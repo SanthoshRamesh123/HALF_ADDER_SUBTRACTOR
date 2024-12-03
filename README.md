@@ -66,10 +66,11 @@ xor(f_xor,a,b);
 xnor(f_xnor,a,b);
 endmodule
 **RTL Schematic**
-![Screenshot 2024-11-26 133223](https://github.com/user-attachments/assets/c3e8ce66-7e01-4bed-b85b-587f1636bf66)
+![Screenshot 2024-11-26 134747](https://github.com/user-attachments/assets/18bcb8fb-a6cb-44d0-9522-31a1d32eea76)
+
 
 **Output/TIMING Waveform**
-![Screenshot 2024-11-26 133251](https://github.com/user-attachments/assets/23ba5051-b9d5-4db1-9d79-fba14a251501)
+![Screenshot 2024-11-26 134811](https://github.com/user-attachments/assets/bc13daae-269c-473a-9df4-b465e01ef696)
 
 **Result:**
 Then the basics logic gate satisfied and the logic gate table are verified
